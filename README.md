@@ -6,7 +6,7 @@ FX Data Warehouse is a Spring Boot application for analyzing FX deals. It provid
 
 1. Clone the repository:
 
-   ```
+   ```sh
    git clone https://github.com/HAmer-Banna/fx-data-warehouse.git
    
 2. Build the application:
